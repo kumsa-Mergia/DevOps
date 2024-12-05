@@ -1,6 +1,6 @@
 # Service
 
-## A Kubernetes Service is an abstraction that defines a logical set of Pods and enables access to them over a network. Services allow stable networking to Pods by providing a consistent endpoint (IP or DNS) for accessing them.
+A Kubernetes Service is an abstraction that defines a logical set of Pods and enables access to them over a network. Services allow stable networking to Pods by providing a consistent endpoint (IP or DNS) for accessing them.
 
 ## Why Use Services?
 - **To provide a stable IP address and DNS name for Pods.**
