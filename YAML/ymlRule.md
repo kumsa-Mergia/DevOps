@@ -18,4 +18,4 @@
 
 - The Keys are always strings, and data types that YAML supports include booleans, numbers, lists, arrays, and strings, including multi-line strings.
 
-- The file starts with three dashes (`---`) to indicate the start of a new YAML document.
+- The file starts with three dashes **(`---`)** to indicate the start of a new YAML document.
