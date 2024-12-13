@@ -1,0 +1,13 @@
+# Lists and Dictionaries
+
+# YAML can also combine lists and dictionaries. A dictionary can contain a list, and a list can contain dictionaries.
+
+employees: # List
+  - name: John Doe # Dictionary 1
+    age: 30
+    position: Software Engineer
+  - name: Kumsa Mergia # Dictionary 2
+    age: 25
+    position: Data Scientist
+
+# In this example, employees is a list that contains two dictionaries. Each dictionary represents an employee with their respective details.
