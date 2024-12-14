@@ -1,0 +1,10 @@
+# YAML allows dictionaries to be nested, meaning a value can itself be a dictionary
+
+person:
+  name: Kumsa Mergia
+  age: 25
+  address:
+    city: Addis Ababa
+    zip: 10001
+
+# Here, the address key holds another dictionary with two key-value pairs: city and zip.
