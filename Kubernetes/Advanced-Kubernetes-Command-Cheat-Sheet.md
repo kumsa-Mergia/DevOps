@@ -1,3 +1,5 @@
+# Advanced Kubernetes Commands
+
 
 # Advanced Kubernetes Command Cheat Sheet
 
@@ -15,6 +17,10 @@ kubectl top pods
 ## 3. Get Detailed Information About a Pod with Events
 ```bash
 kubectl describe pod <pod_name>
+```
+##  Get cluster nodes and their detailed information
+```bash
+kubectl describe nodes
 ```
 
 ## 4. List All Namespaces
