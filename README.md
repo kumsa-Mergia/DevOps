@@ -179,10 +179,6 @@ Discover best practices for setting up robust Continuous Integration and Continu
 
 ---
 
-## Final Project
-
-Now that you've learned about the core DevOps tools and practices, it's time to put everything together in a real-world project. This could involve setting up a full CI/CD pipeline, automating infrastructure provisioning, or deploying an application using Kubernetes and Docker.
-
 ---
 
 ## Additional Resources
